@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello world!");
+        System.out.printf("Hello all world!");
         System.out.println("");
         System.out.println("-----------------");
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
@@ -14,6 +14,6 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
-        System.out.println("-----------------");
+        System.out.println("!-----------------!");
     }
 }
